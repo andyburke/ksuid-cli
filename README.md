@@ -1,6 +1,6 @@
 # ksuid-cli
 
-A Command Line Interface for dealing with [Segment's KSUID library](https://github.com/segmentio/ksuid).
+A Command Line Interface for dealing with [Segment's KSUIDs](https://github.com/segmentio/ksuid).
 
 Uses [Mark Wubben's KSUID node.js library](https://github.com/novemberborn/ksuid).
 
