@@ -1,11 +1,13 @@
 {
   "name": "ksuid-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A CLI for dealing with KSUIDs",
   "engine": {
     "node": ">=8 <9 || >=10"
   },
-  "bin": "./ksuid",
+  "bin": {
+    "ksuid": "./ksuid"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
