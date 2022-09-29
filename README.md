@@ -31,7 +31,7 @@ purposes.
 Using the inspect formatting on just 1 ksuid:
 
 ```sh
-> ksuid -f inspect
+> ksuid -f inspect 151zOCJ2I9szGtX4VwDJjnmvrpZ
 
 REPRESENTATION:
 
